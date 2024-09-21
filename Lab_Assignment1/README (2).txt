@@ -1,6 +1,6 @@
 
 
-Name: Mahweer 
+Name: Mahweer Kumar
 UCID: 30259639
 
 Name: Leanne Lane
